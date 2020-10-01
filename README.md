@@ -1,4 +1,5 @@
 # Sudoku-Master-Solver-And-Generator
+# Random number suduko 
 
 A Python script to both solve and generate Sudoku puzzle boards.
 Uses the Backtracking technique to effectively find the solution.
